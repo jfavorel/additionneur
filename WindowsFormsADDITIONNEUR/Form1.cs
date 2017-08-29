@@ -15,7 +15,7 @@ namespace WindowsFormsADDITIONNEUR
     {
         // Variables
 
-        int somme;
+        int total;
 
 
         public FormAdditionneur()
@@ -27,7 +27,7 @@ namespace WindowsFormsADDITIONNEUR
         {
             
             textBox1.Text += ((Button)sender).Text + " + ";
-            somme += int.Parse(((Button)sender).Text);
+            total += int.Parse(((Button)sender).Text);
         }
 
 
@@ -35,13 +35,13 @@ namespace WindowsFormsADDITIONNEUR
         private void bt_vider_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
-            somme = 0;
+            total = 0;
         }
 
         private void bt_calculer_Click(object sender, EventArgs e)
         {
 
-            textBox1.Text = textBox1.Text + somme.ToString() + " + ";
+            textBox1.Text = textBox1.Text + total.ToString() + " + ";
 
         }
 
