@@ -1,0 +1,39 @@
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe.config
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.pdb
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csprojResolveAssemblyReference.cache
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.FormAdditionneur.resources
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.Properties.Resources.resources
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csproj.GenerateResource.Cache
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.exe
+E:\CDI AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.pdb
+D:\AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe.config
+D:\AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.exe
+D:\AFPA\Dropbox\Visual Studio 2012\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe.config
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csprojResolveAssemblyReference.cache
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.FormAdditionneur.resources
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.Properties.Resources.resources
+C:\Users\maison\Desktop\Stagiaires\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csproj.GenerateResource.Cache
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe.config
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csprojResolveAssemblyReference.cache
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.FormAdditionneur.resources
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.Properties.Resources.resources
+C:\Users\1503570\Desktop\Laurent\IHM\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csproj.GenerateResource.Cache
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe.config
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.exe
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\bin\Debug\WindowsFormsADDITIONNEUR.pdb
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csprojResolveAssemblyReference.cache
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.FormAdditionneur.resources
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.Properties.Resources.resources
+C:\Users\1503570\Desktop\SolutionADDITIONNEUR\WindowsFormsADDITIONNEUR\obj\Debug\WindowsFormsADDITIONNEUR.csproj.GenerateResource.Cache
