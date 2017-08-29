@@ -41,6 +41,7 @@
             this.button9 = new System.Windows.Forms.Button();
             this.bt_vider = new System.Windows.Forms.Button();
             this.bt_calculer = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -176,12 +177,22 @@
             this.bt_calculer.UseVisualStyleBackColor = true;
             this.bt_calculer.Click += new System.EventHandler(this.bt_calculer_Click);
             // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(112, 220);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(75, 23);
+            this.button10.TabIndex = 13;
+            this.button10.Text = "button10";
+            this.button10.UseVisualStyleBackColor = true;
+            // 
             // FormAdditionneur
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsADDITIONNEUR.Properties.Resources.maths_ftr;
             this.ClientSize = new System.Drawing.Size(308, 302);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.bt_calculer);
             this.Controls.Add(this.bt_vider);
             this.Controls.Add(this.button5);
@@ -219,6 +230,7 @@
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button bt_vider;
         private System.Windows.Forms.Button bt_calculer;
+        private System.Windows.Forms.Button button10;
     }
 }
 
